@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <meta charset="utf-8" />
+    <title>Szybki internet do wyboru</title>
+</head>
+<body>
+    <center>
+
+        <div class="title">
+            <header>
+                <h1>
+                    Wybierz Pakiet taki jaki cię interesuje mordo
+                </h1>
+                <p>Mordo bierz to co ci sie podoba</p>
+
+            </header>
+        </div>
+
+        <div class="border">
+            <div class="PakietStandard">
+
+
+                <br />Pakiet Standardowy oferujący:
+                <br /> do 100MB/s
+                <br /> Opłata miesięczna od 39,99 zł
+
+            </div>
+
+
+            <div class="PakietPremium">
+                <br />Pakiet Premium oferujący:
+                <br /> do 300MB/s
+                <br /> Opłata miesięczna od 59,99 zł
+            </div>
+            <div class="PakietGold">
+                <br />Pakiet Gold oferujący:
+                <br /> do 600MB/s
+                <br />Opłata miesięczna od 79,99 zł
+            </div>
+            <div class="Pakiet500">
+                <br /> Pakiet 500 oferujący:
+                <br /> do 1Gb/s
+                <br /> Opłata miesięczna od 99,99 zł
+                <br />W opłate wchodzi również telewizja z ponad 100 kanałami
+            </div>
+        </div>
+    </center>
+
+
+
+</body>
+</html>
+
