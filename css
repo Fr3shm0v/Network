@@ -1,0 +1,30 @@
+
+.PakietStandard {
+    border-color: black;
+    border-radius: 20px;
+    border-style: solid;
+    text-align: center;
+}
+
+.PakietPremium {
+    border-color: black;
+    border-radius: 20px;
+    border-style: solid;
+    text-align: center;
+}
+
+
+.PakietGold {
+    border-color: black;
+    border-radius: 20px;
+    border-style: solid;
+    text-align: center;
+}
+
+
+.Pakiet500 {
+    border-color: black;
+    border-radius: 20px;
+    border-style: solid;
+    text-align: center;
+}
